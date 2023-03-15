@@ -1,7 +1,7 @@
 #creando una lista (se pueden modificar)
-lista = ["Jessica Martínez", "Soy Jessica", True,1.60];
+lista = ["Jessica Martínez", "Soy Jessica", True,1.60]
 
-#creando una tupla (no se pueden modificar)
+#creando una tupla (no se pueden modificar los elementos (añadir o eliminar))
 tupla = ("Jessica Martínez", "Soy Jessica", True,1.60)
 
 #esto es válido

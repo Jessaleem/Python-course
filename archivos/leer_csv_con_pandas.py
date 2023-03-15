@@ -4,8 +4,11 @@ import pandas as pd
 df = pd.read_csv("archivos\\datos.csv")
 
 #Obtener los datos de la columna nombre
-nombres = df["nombre"]
+nombre = df["nombre"]
 
 #Ordenar por edad 
-#df_ordenado = df.sort_values("edad")
-print(df)
+df_ordenado_ascendente = df.sort_values("edad")
+
+#Ordenar de forma descendente
+df_ordenado_descendente = df.sort_values("edad", ascending=False)
+print(df.columns.tolist())
