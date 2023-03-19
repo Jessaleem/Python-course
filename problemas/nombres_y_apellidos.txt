@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre:Roberto
+Apellido_ Fuentes
+-------------
+Nombre:Rodrigo
+Apellido_ Vergara
+-------------
+Nombre:Guillermo
+Apellido_ Sanchez
+-------------
+Nombre:Cristian
+Apellido_ Restrepo
+-------------
+Nombre:Eugenio
+Apellido_ Sabbag
+-------------
