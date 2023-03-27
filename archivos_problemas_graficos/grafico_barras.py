@@ -12,7 +12,7 @@ sns.barplot(x="fuente",y="ingresos",data=df)
 total_ingresos = df['ingresos'].sum()
 
 #Mostrar el total de ingresos
-print(f"El total de ingresos es de: ${total_ingresos} USD")
+print(f"El total de ingresos es de: {total_ingresos} USD")
 
 
 #Mostrar el gráfico
